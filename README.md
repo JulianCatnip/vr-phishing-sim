@@ -1,4 +1,4 @@
-# VR Phishing Simulator
+# VR Phishing Email Simulator
 
 ## About the game
 Educate yourself, your familiy or your colleagues on the impact of phishing emails!
