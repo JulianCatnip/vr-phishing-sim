@@ -1,11 +1,10 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Email_O_Mat : MonoBehaviour
+public class EmailOMat : MonoBehaviour
 {
     public List<GameObject> currentlyEating;
-    public Score_System scoreSystem;
+    public ScoreSystem scoreSystem;
     public Display display;
     private bool letterIsInHand;
 
@@ -54,7 +53,6 @@ public class Email_O_Mat : MonoBehaviour
             // delete mail
             display.DestroyEmail(other.gameObject.GetComponent<Letter>().emailId);
             Destroy(other.gameObject);
-
         }
     }
 }

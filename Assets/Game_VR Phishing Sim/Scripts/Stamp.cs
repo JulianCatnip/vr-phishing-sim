@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.XR;
 using UnityEngine.XR.Interaction.Toolkit;
 
 public class Stamp : MonoBehaviour
@@ -18,8 +17,7 @@ public class Stamp : MonoBehaviour
     // }
     void OnTriggerEnter(Collider other) 
     {
-        if(
-            ((l_directInteractor.selectTarget != null && l_directInteractor.selectTarget.transform == this.transform)
+        if(((l_directInteractor.selectTarget != null && l_directInteractor.selectTarget.transform == this.transform)
             || (r_directInteractor.selectTarget != null && r_directInteractor.selectTarget.transform == this.transform))
             && other.CompareTag("Stampable"))
         {

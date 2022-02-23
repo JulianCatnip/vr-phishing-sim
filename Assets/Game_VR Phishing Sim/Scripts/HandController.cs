@@ -25,7 +25,7 @@ public class HandController : MonoBehaviour
     private Vector2 thumbstickUsed;
     private bool triggerPressed;
     private bool gripPressed;
-    private bool thumbTouched;
+    // private bool thumbTouched;
 
     void Start()
     {
@@ -43,7 +43,7 @@ public class HandController : MonoBehaviour
         primaryButtonPressed = false;
         triggerPressed = false;
         gripPressed = false;
-        thumbTouched = false;
+        //thumbTouched = false;
     }
 
     private void GetInput()

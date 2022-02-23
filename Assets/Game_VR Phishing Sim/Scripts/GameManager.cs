@@ -1,10 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    private Score_System scoreSystem;
+    private ScoreSystem scoreSystem;
     public Transform scoreDisplay;
 
     private enum GameState {
@@ -18,7 +16,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        scoreSystem = GetComponent<Score_System>();
+        scoreSystem = GetComponent<ScoreSystem>();
         gameState = GameState.START;
     }
 

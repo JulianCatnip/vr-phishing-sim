@@ -1,7 +1,3 @@
-using System.Threading;
-using System.Runtime.CompilerServices;
-using System.Numerics;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,7 +8,6 @@ public class Conveyer : MonoBehaviour
     public UnityEngine.Vector3 direction;
     public List<GameObject> onBelt;
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         foreach (var item in onBelt) {

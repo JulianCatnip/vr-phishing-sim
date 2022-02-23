@@ -1,8 +1,7 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Score_System : MonoBehaviour {
+public class ScoreSystem : MonoBehaviour {
 
     public List<GameObject> collectibles;
     public List<GameObject> destructions;

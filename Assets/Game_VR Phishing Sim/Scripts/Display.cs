@@ -1,9 +1,7 @@
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Display : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
         Transform content = transform.Find("Canvas/Content");
