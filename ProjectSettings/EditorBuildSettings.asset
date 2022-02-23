@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_VR Hackathon Game/Scenes/OfficeScene.unity
+    path: Assets/Game_VR Phishing Sim/Scenes/OfficeScene.unity
     guid: c69de8688b8bc8743935b9f50b1e0653
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 848972a522ef3d14d95e19cc90a7b8c5, type: 2}
