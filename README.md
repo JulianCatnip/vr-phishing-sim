@@ -1,4 +1,5 @@
 # VR Phishing Simulator
+![Game environment](/readme_src/05.jpg)
 ## About the game
 Educate yourself, your familiy or your colleagues on the impact of phishing emails!
 - You play as an employee in an office environment.
