@@ -12,9 +12,9 @@ Educate yourself, your familiy or your colleagues on the impact of phishing emai
 - Evaluate falsely and find out the consequences............
 
 ## Technical details
-| Version |
-| ------ |
-| 2020.3.18f1 |
+- Unity version:
+  - 2020.3.18f1
+
 - Required packages: 
   - XR Interaction Toolkit (1.0.0-pre.6)
   - XR Plugin Management (4.0.7)
@@ -24,15 +24,5 @@ Educate yourself, your familiy or your colleagues on the impact of phishing emai
 - Game repository
   - Assets/
     - **Game_VR Phishing Sim/**
-      -  Animator
-      -  Audio
-      -  Materials
-      -  Models
-      -  Prefabs
-      -  Scenes
-      -  Scripts
-      -  Sprites
-      -  Textures 
-
 
 ![Game environment](/readme_src/05.jpg)
