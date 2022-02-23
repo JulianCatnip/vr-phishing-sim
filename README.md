@@ -21,9 +21,18 @@ Educate yourself, your familiy or your colleagues on the impact of phishing emai
   - Oculus XR Plugin (1.10.1)
   - OpenXR Plugin (1.2.8)
 
-| Game repository |
-| ------ |
-| - Assets/Game_VR Phishing Sim/ |
+- Game repository
+  - Assets/
+    - **Game_VR Phishing Sim/**
+      -  Animator
+      -  Audio
+      -  Materials
+      -  Models
+      -  Prefabs
+      -  Scenes
+      -  Scripts
+      -  Sprites
+      -  Textures 
 
 
 ![Game environment](/readme_src/05.jpg)
