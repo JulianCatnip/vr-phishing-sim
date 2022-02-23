@@ -24,5 +24,7 @@ Educate yourself, your familiy or your colleagues on the impact of phishing emai
 - Game repository
   - Assets/
     - **Game_VR Phishing Sim/**
+    - [Third-party/Unity assets]
+    - ...
 
 ![Game environment](/readme_src/05.jpg)
