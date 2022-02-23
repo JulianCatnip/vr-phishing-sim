@@ -1,5 +1,5 @@
 # VR Phishing Simulator
-![Game environment](/readme_src/05.jpg)
+
 ## About the game
 Educate yourself, your familiy or your colleagues on the impact of phishing emails!
 - You play as an employee in an office environment.
@@ -18,3 +18,5 @@ Educate yourself, your familiy or your colleagues on the impact of phishing emai
   - XR Plugin Management (4.0.7)
   - Oculus XR Plugin (1.10.1)
   - OpenXR Plugin (1.2.8)
+
+![Game environment](/readme_src/05.jpg)
